@@ -1,6 +1,6 @@
 #include "dw.h"
 
-Employee::Employee(double base_salary){m_base_salary = base_salary}
+Employee::Employee(double base_salary){m_base_salary = base_salary; }
 
 Employee::~Employee() {}
 
